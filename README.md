@@ -39,7 +39,7 @@ Data Generation → Data Preprocessing → EDA → Model Training → Prediction
 ---
 
 ## 📂 Project Structure
-
+```
 Employee-Performance-Predictor/
 │
 ├── data/ 
@@ -52,7 +52,7 @@ Employee-Performance-Predictor/
 ├── main.py 
 ├── requirements.txt 
 └── README.md
-
+```
 
 ---
 
@@ -69,21 +69,21 @@ Employee-Performance-Predictor/
 ## ▶️ How to Run the Project
 
 ### 1. Clone the repository
-
+```
 git clone <your-repo-link>
 cd Employee-Performance-Predictor
-
+```
 
 ### 2. Install dependencies
-
+```
 pip install -r requirements.txt
 
-
+```
 ### 3. Run the project
-
+```
 python main.py
 
-
+```
 ---
 
 ## 📊 Output
